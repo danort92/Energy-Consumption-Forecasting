@@ -1,5 +1,8 @@
 # Energy-Consumption-Forecasting
-This project focuses on forecasting energy consumption using time series analysis and machine learning techniques. By leveraging historical energy usage data, the model predicts future trends, aiding in optimizing energy distribution and planning. The primary model used is XGBoost
+This project focuses on forecasting energy consumption using time series analysis and machine learning techniques. By leveraging historical energy usage data, the model predicts future trends, aiding in optimizing energy distribution and planning. The primary model used is XGBoost.
+
+![image](images/image.jpg)
+
 ## Features
 * Time series forecasting using XGBoost
 * Data preprocessing and feature engineering with Pandas & NumPy
@@ -23,10 +26,10 @@ od.download("https://www.kaggle.com/datasets/robikscube/hourly-energy-consumptio
 ##Results & Visualization
 The notebook includes visualizations of energy trends and model performance metrics, such as MSE and prediction plots.
 
-![image](https://github.com/user-attachments/assets/61e8aec3-5ef0-4bc5-81b6-855784826a3f)
-![image](https://github.com/user-attachments/assets/ac890b7c-b6ed-496f-a5a9-ab64f61e6c4d)
-![image](https://github.com/user-attachments/assets/5e01d9d9-2df0-41b1-a7f1-3339f8656ee3)
-![image](https://github.com/user-attachments/assets/d6f650c8-3d8c-4094-b72e-7d98d3d32994)
+![image](images/407911430-61e8aec3-5ef0-4bc5-81b6-855784826a3f.png)
+![image](images/407911521-ac890b7c-b6ed-496f-a5a9-ab64f61e6c4d.png)
+![image](images/407911982-5e01d9d9-2df0-41b1-a7f1-3339f8656ee3.png)
+![image](images/407912037-d6f650c8-3d8c-4094-b72e-7d98d3d32994.png)
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, submit pull requests, or raise issues.
